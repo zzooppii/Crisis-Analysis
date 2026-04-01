@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and reports
+data/
+reports/
+
+# IDE and tools
+.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Virtual environment
+venv/
+env/
+.env
